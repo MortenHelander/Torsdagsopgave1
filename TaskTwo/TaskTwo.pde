@@ -1,0 +1,10 @@
+String teacherName="Tess Løvgreen";
+int daysInAYear=365;
+String capital="København";
+boolean noError=true;
+int minutesInOneDay=60*24;
+float score=22.12;
+println("Hej, jeg heddder "+teacherName);
+boolean error=false;
+float calculate=2.2 + 33;
+println('S');
